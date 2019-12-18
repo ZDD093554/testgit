@@ -5,6 +5,6 @@ public class Adress {
 	 
 	 public void show()
 	 {
-		 System.out.println("say hello！");
+		 System.out.println("say hello!");
 	 }
 }
