@@ -8,13 +8,6 @@ public class Adress {
 		 System.out.println("say hello!");
 	 }
 	 
-	 public void display()
-	 {
-		 System.out.println("say hi!");
-	 }
-	 public void city()
-	 {
-		 System.out.println("I come from ...");
-	 }
+	
 
 }
