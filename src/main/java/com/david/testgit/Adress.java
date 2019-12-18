@@ -7,4 +7,10 @@ public class Adress {
 	 {
 		 System.out.println("say hi!");
 	 }
+	 	 
+	 public void show()
+	 {
+		 System.out.println("say hello!");
+	 }
+	 
 }
